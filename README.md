@@ -114,5 +114,5 @@ python evaluate_model.py --model EfficientNetB3
 ## 📧 Contact
 
 **Developer:** Priyranjan Kumar
-**Email:** [your.email@example.com](mailto:your.email@example.com)
+**Email:** [priyesranjan@gmail.com](priyesranjan@gmail.com)
 **College:** Government Engineering College, Banka
